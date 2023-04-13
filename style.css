@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  margin: 20px;
+}
+
+
+.section-form {
+  width: 500px;
+  margin: 0 auto;
+  background-color: rgb(130, 130, 130);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
